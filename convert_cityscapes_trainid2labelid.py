@@ -1,4 +1,4 @@
-from tools.cityscapes_labels import labels
+from cityscapes_labels import labels
 from PIL import Image as PILImage
 import numpy as np
 import os
